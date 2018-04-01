@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichTextBoxDemo", "RichTextBoxDemo\RichTextBoxDemo.csproj", "{4684937B-1152-405B-B845-E07FF8506F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewDemo", "TreeViewDemo\TreeViewDemo.csproj", "{F807529D-B1DA-49D3-8B5A-DCB09D3E0C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "WpfApplication1\WpfApplication1.csproj", "{40FCD4E3-BB08-45B1-80DC-5BDAF4DD5BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4684937B-1152-405B-B845-E07FF8506F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4684937B-1152-405B-B845-E07FF8506F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4684937B-1152-405B-B845-E07FF8506F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4684937B-1152-405B-B845-E07FF8506F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F807529D-B1DA-49D3-8B5A-DCB09D3E0C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F807529D-B1DA-49D3-8B5A-DCB09D3E0C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F807529D-B1DA-49D3-8B5A-DCB09D3E0C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F807529D-B1DA-49D3-8B5A-DCB09D3E0C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40FCD4E3-BB08-45B1-80DC-5BDAF4DD5BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40FCD4E3-BB08-45B1-80DC-5BDAF4DD5BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40FCD4E3-BB08-45B1-80DC-5BDAF4DD5BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40FCD4E3-BB08-45B1-80DC-5BDAF4DD5BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
